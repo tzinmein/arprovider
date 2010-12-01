@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeechtreeTech.ARProviderExample.WebSite", "BeechtreeTech.ARProviderExample.WebSite\BeechtreeTech.ARProviderExample.WebSite.csproj", "{B837B89B-6777-4A2E-B81F-251EB9C3AD1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeechtreeTech.ARProviderExample.Providers", "BeechtreeTech.ARProviderExample.Providers\BeechtreeTech.ARProviderExample.Providers.csproj", "{C8613697-DD6F-4BA0-8132-AA84D65A7B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeechtreeTech.ARProviderExample.BLL", "BeechtreeTech.ARProviderExample.BLL\BeechtreeTech.ARProviderExample.BLL.csproj", "{8A0FFB08-F5B6-446B-945A-0F96D0601627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B837B89B-6777-4A2E-B81F-251EB9C3AD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B837B89B-6777-4A2E-B81F-251EB9C3AD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B837B89B-6777-4A2E-B81F-251EB9C3AD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B837B89B-6777-4A2E-B81F-251EB9C3AD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8613697-DD6F-4BA0-8132-AA84D65A7B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8613697-DD6F-4BA0-8132-AA84D65A7B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8613697-DD6F-4BA0-8132-AA84D65A7B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8613697-DD6F-4BA0-8132-AA84D65A7B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0FFB08-F5B6-446B-945A-0F96D0601627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0FFB08-F5B6-446B-945A-0F96D0601627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0FFB08-F5B6-446B-945A-0F96D0601627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0FFB08-F5B6-446B-945A-0F96D0601627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
